@@ -25,10 +25,10 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": "^10"
+    "node": "latest"
   },
   "dependencies": {
-    "@google-cloud/logging-winston": "^3.0.0",
+    "@google-cloud/logging-winston": "latest",
     "array-flatten": "latest",
     "async": "latest",
     "body-parser": "latest",
@@ -44,7 +44,7 @@
     "helmet": "latest",
     "lodash": "latest",
     "lodash.find": "latest",
-    "mongodb": "^3.2.3",
+    "mongodb": "latest",
     "mongoose": "latest",
     "morgan": "latest",
     "request": "latest",
